@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['24105621021', '𝙏𝞗𝙂𝞢 𝞘𝞜𝙐𝞛𝞓𝞙𝞘', true],
-  ['17245423663 , '๓คki๓ค ง2', true],
+  ['24105621021', 'ᬊ͜͡🥀⃞⃕𝙏𝞗𝙂𝞢᳀𝞘𝞜𝙐𝞛𝞓𝞙𝞘༒︎', true],
+  ['17245423663 , 'ᬊ͜͡🥀⃞⃕𝙏𝞗𝙂𝞢᳀𝞘𝞜𝙐𝞛𝞓𝞙𝞘༒︎', true],
   [''] 
 ] //Number of owners
 
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '๓คki๓ค ง2'
+global.botname = '᚛M๏𝓷keℽ D Lบffy᚜'
 global.premium = 'true'
-global.packname = '𝙏𝞗𝙂𝞢 𝞘𝞜𝙐𝞛𝞓𝞙𝞘' 
-global.author = '๓คki๓ค ง2' 
+global.packname = 'ᬊ͜͡🥀⃞⃕𝙏𝞗𝙂𝞢᳀𝞘𝞜𝙐𝞛𝞓𝞙𝞘༒︎' 
+global.author = '᚛M๏𝓷keℽ D Lบffy᚜' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
 global.dygp = 'https://chat.whatsapp.com/GcLRmi7Js71L7H7bnIVRKu'
 global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
